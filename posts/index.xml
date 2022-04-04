@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Kyrie&#39;s Economics</title>
+        <link>https://hugodoit.pages.dev/posts/</link>
+        <description>All Posts | Kyrie&#39;s Economics</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Mar 2022 11:38:44 &#43;0800</lastBuildDate><atom:link href="https://hugodoit.pages.dev/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>
